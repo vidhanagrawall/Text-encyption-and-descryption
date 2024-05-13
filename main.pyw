@@ -9,7 +9,7 @@
 ██      ████      ██  ████       ██
   ██    ████    ██    ████         ██
 
-Copyright © 2017-2022 Yılmaz Alpaslan
+Copyright © vidhan agrawal
 
 Permission is hereby granted, free of charge to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to deal in the Software
