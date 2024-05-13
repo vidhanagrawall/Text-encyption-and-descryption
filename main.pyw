@@ -43,9 +43,9 @@ Fix freeze on Base64 huge file encoding
 """
 
 __title__ = "Encrypt-n-Decrypt"
-__author__ = "Yilmaz4"
+__author__ = "vidhan"
 __license__ = "MIT"
-__copyright__ = "Copyright © 2017-2023 Yilmaz Alpaslan"
+__copyright__ = "Copyright © vidhan agrawal"
 __version__ = "1.0.0"
 
 from tkinter import (
